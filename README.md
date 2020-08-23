@@ -10,3 +10,7 @@
 ## Features
 
 - **SMBios:** iMacPro1,1
+
+## Notes
+
+- Patched USB Port Limit
