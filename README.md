@@ -1,4 +1,4 @@
-# macOS EFI partition with OpenCore 0.6.0
+# macOS EFI partition with OpenCore 0.6.1
 
 ## Specs
 
