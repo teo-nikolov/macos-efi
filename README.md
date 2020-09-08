@@ -14,3 +14,4 @@
 ## Notes
 
 - Patched USB Port Limit
+- macOS Big Sur
